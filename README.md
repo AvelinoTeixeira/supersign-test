@@ -70,4 +70,4 @@ Listagem de Documentos: Exibição de todos os documentos disponíveis no painel
 Exclusão de Documentos: Remoção de documentos da plataforma.
 Assinatura Digital: Os usuários podem assinar documentos digitalmente através da interface.
 Licença
-Este projeto é de código aberto e está disponível sob a licença MIT.
+Este projeto é de código aberto e está disponível sob a licença MIT..
